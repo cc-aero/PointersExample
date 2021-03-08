@@ -1,0 +1,3 @@
+C:/Users/CamLC/CLionProjects/pointersexample/cmake-build-debug/CMakeFiles/pointersexample.dir
+C:/Users/CamLC/CLionProjects/pointersexample/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/CamLC/CLionProjects/pointersexample/cmake-build-debug/CMakeFiles/rebuild_cache.dir
