@@ -11,4 +11,4 @@ int* intPointer = &pointToThis;
 ```
 ![Pointers in code](https://i.imgur.com/qTWwGAi.png)
 
-[Code Example](/main.cpp)
+[Code Example](pointersexample/main.cpp)
